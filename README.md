@@ -1,3 +1,3 @@
 # Memory-game
 
-![Image description](img/memory.png= 50*50)
+![Image description](img/memory.png= 50)
