@@ -1,3 +1,3 @@
 # Memory-game
 
-![Image description](img/memory.png){:height="100px" width="100px"}
+![Image description](img/memory.png){:height="10px" width="10px"}
